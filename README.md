@@ -2,4 +2,4 @@
 
 ## Contenidos
 - [PROGRAMACIÓN GRÁFICA 01](Practica07)
-- [PROGRAMACIÓN GRÁFICA 02](Practiva08)
+- [PROGRAMACIÓN GRÁFICA 02](Practica08)
