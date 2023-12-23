@@ -1,5 +1,5 @@
 # *Ejercicios Practicos de la clase de LP1*
 
 ## Contenidos
-- [PROGRAMACIÓN GRÁFICA 01] (practica07)
-- [PROGRAMACIÓN GRÁFICA 02] (practiva08)
+- [PROGRAMACIÓN GRÁFICA 01](Practica07)
+- [PROGRAMACIÓN GRÁFICA 02](Practiva08)
